@@ -3,6 +3,8 @@
 # source the ciop functions (e.g. ciop-log)
 source ${ciop_job_include}
 
+# test comment
+
 # define the exit codes
 SUCCESS=0
 ERR_AUX=4
